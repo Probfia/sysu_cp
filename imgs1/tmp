@@ -1,0 +1,17 @@
+问题：白底黄色字不要用。 整幅图像出现，缺少动画，信息较多。问题比较好。
+
+1, 冯珑珑老师本子
+3, 计算物理2备课。
+4, 行星模拟软件合同
+
+1  Brief Documents about simulation, to show the curret results.  About 7 days. 
+   CMOS的能耗和performance还不确定. 
+   
+   CCD的辐照效应.
+   使用kepler的scatter light.  
+   intra-pixel , inter-pixel, 
+   PLATO CCD 270, worst scenario, bigger pixel size, simillar jitter, ~100 ppm
+   燃料储备箱，燃料少的时候晃动，会造成卫星晃动。 
+   飞轮的精度也有差距。
+   2*2 pixel 展示psf 
+   
